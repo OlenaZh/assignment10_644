@@ -1,5 +1,5 @@
 //STEP 1
-/*let myDate = new Date();
+let myDate = new Date();
  myDate.setMonth(4);
  switch (myDate.getMonth()) {
    case 0:
@@ -39,7 +39,7 @@
      console.log('Dec has ' + 31 + ' days');
      break;
 }
-*/
+
 //STEP 2
 /*let myDate = new Date();
  myDate.setMonth(4);
